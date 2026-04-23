@@ -6,16 +6,17 @@ export default function Projects() {
       <div style={{ display: "flex", gap: "20px", flexWrap: "wrap" }}>
 
         <div className="card">
-          <h3>Glitch Game</h3>
+          <h3>“Student Performance Visualization” </h3>
           <p>Java + React based game</p>
 
         </div>
+         <a href="https://github.com/Karthikeya029/SE-Project" target="_blank"></a>
 
         <div className="card">
           <h3>Job Board Interface</h3>
           <p>HTML, CSS, JavaScript</p>
         </div>
-
+<a href="https://github.com" target="_blank"></a>
         <div className="card">
           <h3>Law Document Summarizer</h3>
         
